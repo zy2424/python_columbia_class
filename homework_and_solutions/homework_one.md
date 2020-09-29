@@ -1,3 +1,14 @@
+# Instructions
+
+Please use a separate file for each question and please name them accordingly:
+
+```
+question_12.py  question_16.py  question_20.py  question_24.py  question_28.py     question_five.py  question_seven.py  question_two.py
+question_13.py  question_17.py  question_21.py  question_25.py  question_29.py     question_four.py  question_six.py
+question_14.py  question_18.py  question_22.py  question_26.py  question_30.py     question_nine.py  question_ten.py    
+question_11.py      question_15.py  question_19.py  question_23.py  question_27.py  question_eight.py  question_one.py   question_three.py
+```
+
 # Questions
 
 1) instantiate a variable called x with the value 4 and add 17 to it.
@@ -63,3 +74,4 @@ else result is now equal to value plus 54 times 12.
 29) instantiate a variable called result with the result of False or False.
 
 30) instantiate a variable called result with the result of not False.
+
