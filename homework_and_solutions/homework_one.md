@@ -62,4 +62,4 @@ else result is now equal to value plus 54 times 12.
 
 29) instantiate a variable called result with the result of False or False.
 
-29) instantiate a variable called result with the result of not False.
+30) instantiate a variable called result with the result of not False.
