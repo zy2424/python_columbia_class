@@ -31,7 +31,7 @@ Python basics - iteration and data structures - while loops, for loops, lists, d
 
 9) initialize a list called listing with the values "aloha", 1, and 7.  Now initialize a variable called result by selecting the first element of the list.  Next capitalize result and store that value in result.
 
-10) initialize a list called listing with the 100 random integers in the range 0, 10.  Now sort the list. Now initialize a variable called result by selecting the first element of the list.  
+10) initialize a list called listing with the 10000 random integers in the range 0, 10.  Now sort the list. Now initialize a variable called result by selecting the first element of the list.  
 
 11) initialize a variable called listing with a list comprehension that goes from 2 to 100.
 
@@ -47,7 +47,7 @@ Python basics - iteration and data structures - while loops, for loops, lists, d
 
 17) initialize a variable called dicter with a dictionary comprehension that has keys from 2 to 100 and has True for all values.
 
-18) 17) initialize a variable called dicter with a dictionary comprehension that has keys from 2 to 100 and has True for all even values.
+18) initialize a variable called dicter with a dictionary comprehension that has keys from 2 to 100 and has True for all even values.
 
 19) initialize a variable called dicter with a dictionary comprehension that has keys from 2 to 100 and has True for all odd values.
 
