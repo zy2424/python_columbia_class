@@ -63,7 +63,7 @@ def test_question_11():
     assert question_11.result == "divisible by 2"
 
 def test_question_12():
-    assert question_12.result == "divisible by 3"
+    assert question_12.result == "not divisible by 3"
 
 def test_question_13():
     assert question_13.result == (54 * 12)
