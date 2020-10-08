@@ -21,7 +21,7 @@ Python basics - iteration and data structures - while loops, for loops, lists, d
 
 4) intialize a variable called counter with the value zero and another variable called value with the value 7.  Then write a while loop that terminates when value is greater than 1e7.  In the while loop you should increase value by multiplying it one half of it's current value and increase counter by one.
 
-5) intialize a variable called counter with the value zero and another variable called value with the value 10000.  Then write a while loop that terminates when value is less than or equal to 1.  In the while loop you should decrease value by dividing it one half of it's current value and increase counter by one.
+5) intialize a variable called counter with the value zero and another variable called value with the value 10000.  Then write a while loop that terminates when value is less than or equal to 1.  In the while loop you should decrease value by subtracting it one half of it's current value and increase counter by one.
 
 6) initialize a list called listing with the values 0, 1, and 2.  Now initialize a variable called result by selecting the third element of the list.  
 
