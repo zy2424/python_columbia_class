@@ -45,7 +45,7 @@ Python basics - iteration and data structures - while loops, for loops, lists, d
 
 16) initialize a variable called dicter with a dictionary comprehension that has keys from 2 to 100 and has True for all values.
 
-17) initialize a variable called dicter with a dictionary comprehension that has keys from 2 to 100 and has True for all values.
+17) initialize a variable called dicter with a dictionary comprehension that has keys from 2 to 100 and has True for any variable less than 10.
 
 18) initialize a variable called dicter with a dictionary comprehension that has keys from 2 to 100 and has True for all even values.
 
