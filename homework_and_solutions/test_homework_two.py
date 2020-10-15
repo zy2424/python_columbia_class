@@ -138,7 +138,7 @@ def test_question_nine():
 def answer_ten():
     import random
     listing = [random.randint(0, 10)
-               for _ range(10000)]
+               for _ in range(10000)]
     listing.sort()
     result = listing[0]
     return listing, result
